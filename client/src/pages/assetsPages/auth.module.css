@@ -1,0 +1,18 @@
+.btn-signUp{
+    margin-left: 10px;
+}
+input.yellow-input{
+    border-bottom: 1px solid #fff!important;
+    box-shadow: 1px solid #fff!important;
+}
+input.yellow-input+label{
+    color: #fff!important;
+}
+input.yellow-input:focus+label{
+    color: #fbc02d!important;
+}
+input.yellow-input:focus{
+    border-bottom: 1px solid #fbc02d!important;
+    box-shadow: 1px solid #fbc02d!important;
+}
+
